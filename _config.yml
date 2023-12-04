@@ -6,7 +6,7 @@ url: "https://sylhare.github.io"
 title: Palette^Symphonie^                               # site's title
 description: "A person with multiple skills are like mixing all these color together..."      # used by search engines
 avatar: assets/img/new_avata.png                         # Empty for no avatar in navbar
-favicon: assets/favicon.ico                             # Icon displayed in the tab
+favicon: assets/new_favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
 header_text: Change <code>header_text</code> in <code>_config.yml</code>  # Change Blog header text
